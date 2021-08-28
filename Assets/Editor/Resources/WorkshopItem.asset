@@ -13,4 +13,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   WorkshopPublishedFileID: 2572520534
   Title: Stellar
-  Tags: []
+  Tags:
+  - Regular Module

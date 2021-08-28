@@ -385,7 +385,7 @@ public class StellarScript : ModuleScript
             yield return null;
         for(int i = 0; i < TapCode[p][1]; i++)
         {
-            PlaySound("TPCD");
+            PlaySound("TPCD2");
             yield return new WaitForSeconds(Delay * 2.5f / TapCode[p][1]);
         }
     }
